@@ -23,6 +23,10 @@ A simple GPT-powered question-answering application with real-time updates, buil
 - **Vercel** (for deployment)
 
 ---
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
+---
 
 ## 🚀 Getting Started
 
@@ -33,3 +37,6 @@ git clone <your-repo-url>
 cd my-app
 npm install
 npm run dev
+
+---
+
